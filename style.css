@@ -1,0 +1,310 @@
+.header{
+	width: 1000px;
+	height: 150px;
+	background: transparent;
+	margin: auto;
+}
+.headerAtas{
+	width: 1000px;
+	height: 50px;
+	margin: none;
+}
+.headerAtasTelepon{
+	width: 500px;
+	height: 50px;
+	background: #d6cbcb;
+	float: left;
+	padding: none;
+	line-height: 50px;
+}
+.headerAtasSearch{
+	width: 500px;
+	height: 50px;
+	background: #d6cbcb;
+	float: left;
+}
+.headerAtasSearch>ul{
+	width: 100px;
+	height: 30px;
+	background: #fff;
+	margin-left: 300px;
+	line-height: 30px;
+	
+
+}
+.headerBawah{
+	width: 1000px;
+}
+.headerLogo{
+	width: 300px;
+	height: 100px;
+	background-color: transparent;
+	float: left;
+}
+.headerLogo>img{
+	width: 300px;
+	height: 100px;
+	
+}
+.headerMenu{
+	width: 700px;
+	height: 100px;
+	background-color: transparent;
+	float: left;
+}
+.menu_list>li{
+	display: inline;
+	line-height: 50px;
+}
+.menu_list>li>a{
+	text-decoration: none;
+	padding: 10px;
+
+}
+.contentFotoSiswa{
+	width: 1000px;
+	height: 400px;
+	background: #ee07f5;
+	margin: auto;
+}
+.contentFotoSiswa>img{
+	width: 1000px;
+	height: 400px;
+}
+
+
+.contentKeunggulan{
+	width: 1000px;
+	height: 280px;
+	background: silver;
+	margin: auto;
+
+
+}
+
+.keunggulan>ul>li{
+	width: 1000px;
+	height: 30px;
+	background: silver;
+	margin: auto;
+	margin-left: -40px;
+	margin-top: -19px;
+	text-align: center;
+
+}
+
+
+
+.kotak1{
+	width: 333px;
+	height: 250px;
+	background-color: transparent;
+	float: left;
+	margin-top: 30px;
+}
+.kotak1>img{
+	margin-left: 89px;
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+}
+.kotak1>p{
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+}
+.kotak1>p>a{
+	text-decoration: none;
+}
+.kotak2{
+	width: 333px;
+	height: 250px;
+	background-color: transparent;
+	float: left;
+	margin-top: 30px;
+}
+
+.kotak2>img{
+	margin-left: 89px;
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+
+}
+.kotak2>p{
+	color: #ffff;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+}
+.kotak2>p>a{
+	text-decoration: none;
+}
+.kotak3{
+	width: 333px;
+	height: 250px;
+	background-color: transparent;
+	float: left;
+	margin-top: 30px;
+}
+
+.kotak3>img{
+	margin-left: 89px;
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+
+}
+.kotak3>p{
+	color: #ffff;
+	text-align: center;
+	font-weight: bold;
+}
+.kotak3>p>a{
+	text-decoration: none;
+}
+
+/*artikel yang akan dibaca*/
+.artikel{
+	width: 1000px;
+	height: 250px;
+	margin: auto;
+	background: pink;
+}
+.artikel>li{
+	padding: 125px;
+	margin-left: 250px;
+
+}
+/*artikel yang akan dibaca end*/
+
+/*ekstrakurikuler*/
+
+.ekstrakurikuler{
+	width: 1000px;
+	height: 200px;
+	background: transparent;
+	margin: auto;
+	margin-top: -16px;
+
+
+}
+.ekstrakurikulerKet{
+	width: 1000px;
+	height: 30px;
+	background: #d6cbcb;
+	margin: auto;
+	border-bottom: : 5px solid red;
+
+}
+.ekstrakurikulerKet>ul>li{
+	text-align: center;
+	margin-left: -50px;
+	font-weight: bold;
+
+}
+
+
+.ekstrakurikulerLogo{
+	background: transparent;
+	margin: auto;
+	width: 1000px;
+	height: 170px;
+	margin-top: -16px;
+
+
+}
+.ekstrakurikulerLogo>ul>li{
+	display: inline;
+	padding: 50px;
+}
+.ekstrakurikulerLogo>ul>li>img{
+	height: 130px;
+	width: 180px;
+	border-radius: 10%;
+	margin-top: 15px;
+	border-top: 5px solid red;
+    border-bottom: 5px solid yellow;
+    border-left: 5px solid green; 
+    border-right: 5px solid blue;
+
+
+}
+
+.motivasi{
+	width: 1000px;
+	background: silver;
+	margin: auto;
+	margin-top: -20px;
+}
+.motivasi>ul>li{
+	padding: 20px;
+	text-align: justify-all;
+
+}
+.motivasi>ul>li>p{
+	text-align: right;
+	font-weight: bold;
+
+
+}
+
+.footer1{
+	width: 1000px;
+	height: 250px;
+	background: aqua;
+	margin: auto;
+	margin-top: -30px;
+}
+
+.kotakfoot1{
+	width: 334px;
+	height: 250px;
+	background: #42412b;
+	float: left;
+
+}
+.kotakfoot1>p{
+	margin-left: 20px;
+	font-weight: bold;
+}
+.kotakfoot2{
+	width: 333px;
+	height: 250px;
+	background: #42412b;
+	float: left;
+
+}
+.kotakfoot2>ul>li>p>a{
+	text-decoration: none;
+	margin-left: 80px;
+	color: black;
+}
+.kotakfoot3{
+	width: 333px;
+	height: 250px;
+	background: #42412b;
+	float: left;
+}
+.kotakfoot3>ul>li>a{
+	text-decoration: none;
+	color: black;
+
+}	
+
+.footer2{
+	width: 1000px;
+	height: 50px;
+	margin: auto;
+	background: black;
+	
+	/**/
+}
+.footer2>ul>li>p{
+	margin-top: -30px;
+	text-align: center;
+	color: white;
+
+
+}
